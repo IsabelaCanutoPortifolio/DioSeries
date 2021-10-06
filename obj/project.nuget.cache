@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1jiCYys8/DB/QTltRCuCZOqRKVZZVt3mgVOExA2WhyVbDxNkU+VC5u6+mpzpcLUe2XpBbRNMTlikKGYeSuhDQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Estude\\Documents\\projetosDigitalnovationOne\\decolaTech\\Dio.Series\\Dio.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Estude\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Estude\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Estude\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Estude\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

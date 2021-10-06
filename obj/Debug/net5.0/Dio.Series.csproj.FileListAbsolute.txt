@@ -1,0 +1,16 @@
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.AssemblyReference.cache
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+C:\Users\Estude\Documents\projetosDigitalnovationOne\decolaTech\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
